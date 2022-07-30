@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sncalderon3@gmail.com
+	name = Stephanie Calderon
